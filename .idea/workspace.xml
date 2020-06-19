@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11dbc61b-33ac-4597-b4de-e31286e7b7b3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlcPHiBhmbhoywGTRGYL99QVOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Vector Quantization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11dbc61b-33ac-4597-b4de-e31286e7b7b3" name="Default Changelist" comment="" />
+      <created>1575934596608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575934596608</updated>
+      <workItem from="1575934606116" duration="236000" />
+      <workItem from="1575993464974" duration="384000" />
+      <workItem from="1575996637861" duration="5377000" />
+      <workItem from="1576280410256" duration="20520000" />
+      <workItem from="1576352385535" duration="30454000" />
+      <workItem from="1576401581506" duration="830000" />
+      <workItem from="1576407712062" duration="1802000" />
+      <workItem from="1576443009411" duration="11964000" />
+      <workItem from="1576458449857" duration="6946000" />
+      <workItem from="1576473227750" duration="503000" />
+      <workItem from="1576477917971" duration="5100000" />
+      <workItem from="1576489115715" duration="1840000" />
+      <workItem from="1576497577866" duration="342000" />
+      <workItem from="1576551739451" duration="685000" />
+      <workItem from="1576879073638" duration="177000" />
+      <workItem from="1576968583959" duration="1079000" />
+      <workItem from="1577026470188" duration="3319000" />
+      <workItem from="1577044541780" duration="743000" />
+      <workItem from="1577096666613" duration="197000" />
+      <workItem from="1577098022808" duration="504000" />
+      <workItem from="1577193592053" duration="725000" />
+      <workItem from="1577215103160" duration="514000" />
+      <workItem from="1583296001103" duration="53000" />
+      <workItem from="1583296149945" duration="109000" />
+      <workItem from="1583296969296" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576467562885">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1576467562885" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1576472739921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1576472739921" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1576472739920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1576472739920" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1576472739920">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1576472739920" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1576472739921">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1576472739921" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1576467643971">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1576467643971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/VectorQuantization.java</url>
+          <line>68</line>
+          <properties class="VectorQuantization" method="CreateBlocks">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/VectorQuantization.java</url>
+          <line>85</line>
+          <properties class="VectorQuantization" method="getAverage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/VectorQuantization.java</url>
+          <line>240</line>
+          <properties class="VectorQuantization" method="convert">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/VectorQuantization.java</url>
+          <line>289</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
